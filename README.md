@@ -2,8 +2,6 @@
 
 This repository is dedicated to creating a quiz application with integrated CI/CD pipelines and other DevOps methodologies, utilizing Docker and Jenkins through AWS for deployment.
 
-## Overview
-
 The Quiz App project aims to provide a robust platform for creating and managing quizzes efficiently. Leveraging CI/CD pipelines and DevOps practices ensures seamless integration, testing, and deployment of the application. By utilizing Docker containers and Jenkins automation within AWS infrastructure, the development and deployment process becomes more streamlined and scalable.
 
 ## Feature
